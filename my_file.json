@@ -1,0 +1,32 @@
+{
+  "monday": [
+    ["server", "data science", "digital marketing", "cctv", "javascript"],
+    ["ceh", "a+", "sql", "graphics design", "nodejs/express"],
+    ["s+", "ccna", "python", "online marketing"],
+    []
+  ],
+  "tuesday": [
+    ["s+", "sql", "javascript"],
+    ["data science", "reactnative", "cissp"],
+    [],
+    []
+  ],
+  "wednesday": [
+    ["ceh", "a+", "ui/ux", "javascript"],
+    ["server", "online marketing", "reactnative", "cissp"],
+    [],
+    []
+  ],
+  "thursday": [
+    ["ceh", "ccna", "excel", "graphics design"],
+    ["server", "cctv", "python", "digital marketing"],
+    [],
+    []
+  ],
+  "friday": [
+    ["n+", "python", "ui/ux", "nodejs/express"],
+    ["excel", "graphics design"],
+    [],
+    []
+  ]
+}
